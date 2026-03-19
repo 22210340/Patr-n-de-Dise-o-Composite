@@ -676,135 +676,26 @@ A continuación se muestra la secuencia de pantallas que produce el programa al 
 
 ### Pantalla 1 — Bienvenida
 
-```
-  ╔══════════════════════════════════════════════╗
-  ║       OASIS PC — Configurador Interactivo    ║
-  ║       Patron de Diseno: Composite            ║
-  ╚══════════════════════════════════════════════╝
-
-  Bienvenido al configurador de equipos Oasis PC.
-  Elige un componente por categoria presionando 1, 2 o 3.
-
-  ────────────────────────────────────────────────────
-```
+![Pantalla 1 - Bienvenida](imag1.png)
 
 ### Pantalla 2 — Selección de CPU (Paso 1/7)
-
-```
-  ╔══════════════════════════════════════════════╗
-  ║       OASIS PC — Configurador Interactivo    ║
-  ╚══════════════════════════════════════════════╝
-
-  Paso 1 de 7
-  ────────────────────────────────────────────────────
-
-  >> Selecciona tu CPU <<
-
-  [1] GAMA BASICA
-       Nombre      : CPU Basica
-       Descripcion : Intel Core i3-12100 3.3GHz 4 nucleos
-       Fabricante  : Intel
-       Precio      : $2800.00 MXN
-
-  [2] GAMA MEDIA
-       Nombre      : CPU Media
-       Descripcion : AMD Ryzen 5 5600X 3.7GHz 6 nucleos
-       Fabricante  : AMD
-       Precio      : $4500.00 MXN
-
-  [3] GAMA ALTA
-       Nombre      : CPU Alta
-       Descripcion : Intel Core i9-13900K 3.0GHz 24 nucleos
-       Fabricante  : Intel
-       Precio      : $12000.00 MXN
-
-  ────────────────────────────────────────────────────
-  Elige una opcion (1 / 2 / 3): 2
-```
+![Pantalla 1 - Bienvenida](imag2.png)
 
 ### Pantalla 3 — Confirmación + Total acumulado tras CPU
 
-```
-  ╔══════════════════════════════════════════════╗
-  ║       OASIS PC — Configurador Interactivo    ║
-  ╚══════════════════════════════════════════════╝
-
-  OK  CPU agregado!
-
-  Pieza   : CPU Media
-  Detalle : AMD Ryzen 5 5600X 3.7GHz 6 nucleos
-  Precio  : $4500.00 MXN
-
-  ────────────────────────────────────────────────────
-
-  Componentes seleccionados hasta ahora:
-
-    + CPU Media                          $   4500.00 MXN
-
-  ────────────────────────────────────────────────────
-  TOTAL ACUMULADO: $4500.00 MXN
-  ────────────────────────────────────────────────────
-
-  Presiona cualquier tecla para continuar...
-```
+![Pantalla 1 - Bienvenida](imag3.png)
 
 ### Pantalla 4 — Selección de RAM (Paso 2/7) con total visible
 
-```
-  Paso 2 de 7
-  Total acumulado hasta ahora: $4500.00 MXN
-  ────────────────────────────────────────────────────
-
-  >> Selecciona tu RAM <<
-
-  [1] GAMA BASICA  — Kingston 8GB DDR4   $550.00 MXN
-  [2] GAMA MEDIA   — Corsair 16GB DDR4   $1100.00 MXN
-  [3] GAMA ALTA    — G.Skill 32GB DDR5   $3500.00 MXN
-```
+![Pantalla 1 - Bienvenida](imag4.png)
 
 ### Pantalla 5 — Confirmación acumulada (CPU + RAM)
 
-```
-  Componentes seleccionados hasta ahora:
-
-    + CPU Media                          $   4500.00 MXN
-    + RAM Media                          $   1100.00 MXN
-
-  ────────────────────────────────────────────────────
-  TOTAL ACUMULADO: $5600.00 MXN
-```
+![Pantalla 1 - Bienvenida](imag5.png)
 
 ### Pantalla 6 — Resumen Final
 
-```
-  *** TU PC OASIS ESTA LISTA ***
-
-  Resumen de tu configuracion:
-
-    CPU Media                            $   4500.00 MXN
-    -> AMD Ryzen 5 5600X 3.7GHz 6 nucleos
-    RAM Media                            $   1100.00 MXN
-    -> Corsair Vengeance 16GB DDR4 3600MHz
-    SSD Media                            $   1580.00 MXN
-    -> Samsung 870 EVO 500GB SATA + WD Blue 1TB
-    GPU Media                            $   3200.00 MXN
-    -> NVIDIA GTX 1650 4GB GDDR6
-    Motherboard Media                    $   1800.00 MXN
-    -> MSI B550-A PRO ATX
-    PSU Media                            $    900.00 MXN
-    -> Corsair CV650 650W 80+ Bronze
-    Gabinete Media                       $   1200.00 MXN
-    -> NZXT H510 Flow Mid-Tower
-
-  ════════════════════════════════════════════════════
-  PRECIO TOTAL DE TU PC: $14280.00 MXN
-  ════════════════════════════════════════════════════
-
-  Tu configuracion cae en la gama: MEDIA
-
-  Gracias por armar tu PC con Oasis PC.
-  Presiona cualquier tecla para salir...
-```
+![Pantalla 1 - Bienvenida](imag6.png)
 
 
 ## 8. Conclusión
